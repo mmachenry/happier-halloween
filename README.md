@@ -1,6 +1,8 @@
 # happier-halloween
 A Minecraft resource pack which eliminates pumpkin blur.
 
+The Problem
+---
 Did you know that you can wear a pumpkin on your head in Minecraft? Well you
 can. Why would you want to? Firstly, to look stylish, but more importantly,
 it's pretty helpful for surviving The End. Endermen are a neutral mob in
@@ -16,6 +18,8 @@ head. This fools them. The downside is that it really obscurs your vision
 pretty badly, making it hard to see where you're going. In a world where one
 wrong step can me falling into the abyss, this is a problem.
 
+The Solution
+---
 This resource pack is extremely simple. It replaces the overlay PNG for pumpkin
 blur with one that doesn't block out your visible range.
 
