@@ -29,5 +29,5 @@ Use the green "Clone or download" button on this GitHub page to download a zip
 file of this repository. Then unzip the file into your resource pack directory
 on your computer. Here is a list of where the default directories are.
 
-MacOS: ~/Library/Application Support/minecraft/resourcepacks
-Linux: ~/.minecraft/resourcepacks
+* MacOS: ~/Library/Application Support/minecraft/resourcepacks
+* Linux: ~/.minecraft/resourcepacks
